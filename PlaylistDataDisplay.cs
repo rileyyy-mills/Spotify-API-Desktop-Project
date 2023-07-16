@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Spotify_Data_Analysis
 {
-    public partial class Form1 : Form
+    public partial class PlaylistDataDisplay : Form
     {
-        public Form1()
+        public PlaylistDataDisplay()
         {
             InitializeComponent();
         }

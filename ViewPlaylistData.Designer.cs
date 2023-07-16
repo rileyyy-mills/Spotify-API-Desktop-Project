@@ -1,6 +1,6 @@
 ﻿namespace Spotify_Data_Analysis
 {
-    partial class Form1
+    partial class ViewPlaylistData
     {
         /// <summary>
         /// Required designer variable.
